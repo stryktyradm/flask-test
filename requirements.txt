@@ -1,0 +1,6 @@
+Werkzeug~=2.2.2
+Flask~=2.2.2
+SQLAlchemy~=1.4.41
+PyJWT~=2.5.0
+marshmallow~=3.18.0
+alembic~=1.8.1
